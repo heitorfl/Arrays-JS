@@ -9,7 +9,7 @@ for(i=0;i<5;i++){
 }
 
 for(i=0;i<5;i++){
-    b[i] = parseInt(Math.random () * 5)
+    b[i] = parseInt(Math.random () * 100)
 }
 
 for(i=0;i<5;i++){
